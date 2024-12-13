@@ -2,7 +2,7 @@ import math
 import streamlit as st
 
 
-st.title("ALOHA")
+st.title("Jaco is gay")
 st.text_input("How many people are there in the queue?",key="people")
 st.text_input("How long does the ride take in min?",key="duration")
 st.text_input("How many people can the ride take per cycle?",key="capacity")
